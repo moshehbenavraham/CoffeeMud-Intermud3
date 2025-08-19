@@ -1,0 +1,33 @@
+# Ignore the entire COFFEEMUD directory
+COFFEEMUD/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Build files
+target/
+build/
+out/
+bin/
+*.class
+*.jar
+*.war
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Logs
+*.log
+logs/
+
+# Test files
+*.test
+test-output/
